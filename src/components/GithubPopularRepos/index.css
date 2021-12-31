@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #0f172a;
+    font-family:Lobster;
+}
+.unOL2{
+    list-style-type: none;
+    padding-left: 0px;
+        display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width:80%;
+}
+.failContainer{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.unOL{
+    list-style-type: none;
+    padding-left: 0px;
+        display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+}
+.failureImg{
+    width: 50%;
+    height: 50%;
+}

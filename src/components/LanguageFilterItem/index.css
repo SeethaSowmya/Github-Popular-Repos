@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button{
+ border-radius: 20px;
+color: #0284c7;
+background-color: #ffffff;
+border:1px solid #0284c7;
+padding:5px;
+font-family:Roboto;
+
+}
+.normalButton{
+border-width: 0px;
+color:#0f172a;
+background-color: transparent;
+font-family:Roboto;
+}

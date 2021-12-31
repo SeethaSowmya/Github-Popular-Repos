@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.langList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+    background-color:#f8f8ff ;
+    margin:10px;
+    border-radius: 5px;
+
+}
+.red{
+    color:#e73959;
+}
+.imgSize{
+width: 60px;
+height:30px
+}
+.infoContainer{
+    display: flex;
+    flex-direction: row;
+}
+p{
+font-size: 8px;
+padding: 0px;
+margin:3px;
+
+}
+.tinyImg{
+    width: 10px;
+height:10px
+}
